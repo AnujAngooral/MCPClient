@@ -1,4 +1,6 @@
 <Solution>
   <Project Path="MCP.Infrastructure/MCP.Infrastructure.csproj" />
+  <Project Path="MCPClient.Api/MCPClient.Api.csproj" Id="43e9e7cc-5db0-4da5-aeb6-c7b8e6724414" />
+  <Project Path="MCPClient.Application/MCPClient.Application.csproj" Id="d9c1f3e3-8a0b-4946-bb8c-d50656e0c634" />
   <Project Path="MCPClient/MCPClient.csproj" />
 </Solution>
